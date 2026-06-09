@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300..900;1,300..900&family=Noto+Sans+Ethiopic:wght@100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Noto Sans Ethiopic", ui-sans-serif, system-ui, sans-serif;
+  --color-primary: #1B4FD8;
+  --color-primary-hover: #153eb2;
+  --color-secondary: #EFF4FF;
+  --color-accent: #F5A623;
+  --color-accent-hover: #d9911c;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}

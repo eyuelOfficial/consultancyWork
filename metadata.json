@@ -1,0 +1,6 @@
+{
+  "name": "EthioLink Consultancy",
+  "description": "Professional bilingual (English & Amharic) marketing website for EthioLink Consultancy, a trusted labor export agency connecting Ethiopian culinary, childcare, and housekeeping talent to families worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
