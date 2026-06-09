@@ -1,12 +1,12 @@
 export const translations = {
   en: {
     // General
-    brandName: "EthioLink",
+    brandName: "Blue Employment",
     brandSubtitle: "Consultancy",
     applyNow: "Apply Now",
     loading: "Sending information...",
     successTitle: "Submission Successful!",
-    successMessage: "Thank you for reaching out to EthioLink Consultancy. Our placement officers will review your information and call you within 24 to 48 hours.",
+    successMessage: "Thank you for reaching out to Blue Employment Consultancy. Our placement officers will review your information and call you within 24 to 48 hours.",
     close: "Close",
     
     // Navigation
@@ -107,7 +107,7 @@ export const translations = {
         name: "Hana Bekele",
         role: "Professional Housekeeper",
         country: "Riyadh, Saudi Arabia",
-        quote: "EthioLink made my journey safe. Their training made me confident in cleaning and handling modern appliances, and my employer is excellent. I send my earnings back home with zero worries."
+        quote: "Blue Employment made my journey safe. Their training made me confident in cleaning and handling modern appliances, and my employer is excellent. I send my earnings back home with zero worries."
       },
       {
         id: "t2",
@@ -123,7 +123,7 @@ export const translations = {
         name: "Aster Tolossa",
         role: "Childcare Specialist / Maid",
         country: "Doha, Qatar",
-        quote: "The visual training and pre-travel language courses made my transition in Doha completely effortless. EthioLink stayed in touch to ensure my health and accommodation are outstanding."
+        quote: "The visual training and pre-travel language courses made my transition in Doha completely effortless. Blue Employment stayed in touch to ensure my health and accommodation are outstanding."
       }
     ],
 
@@ -141,7 +141,7 @@ export const translations = {
     officeTitle: "Our Headquarters",
     officeLocation: "Bole Sub-City, Road No. 4, Lucky Plaza, 3rd Floor, Office #304, Addis Ababa, Ethiopia",
     officePhone: "Phone: +251 11 667 8990 / +251 911 234 567",
-    officeEmail: "Email: info@ethiolinkconsultancy.com",
+    officeEmail: "Email: info@Blue Employmentconsultancy.com",
     officeHours: "Hours: Monday - Friday (8:30 AM - 5:30 PM), Saturday (8:30 AM - 12:30 PM)",
     legalStatement: "Licensed and supervised by the Federal Ministry of Labour and Skills, FDRE.",
     licenseNo: "Ministry License Registration No. L_MOLAS_748_2015",
@@ -150,7 +150,7 @@ export const translations = {
     footerTagline: "Establishing ethical global pathways for outstanding Ethiopian handworkers, protecting our candidates, and powering global households since 2015.",
     footerLinks: "Quick Links",
     footerPolicy: "Terms & Privacy Policy",
-    footerCopyright: "© 2026 EthioLink Consultancy. All Rights Reserved. Built securely in compliance with Ethiopian Labor Laws."
+    footerCopyright: "© 2026 Blue Employment Consultancy. All Rights Reserved. Built securely in compliance with Ethiopian Labor Laws."
   },
   am: {
     // General
@@ -294,7 +294,7 @@ export const translations = {
     officeTitle: "ዋናው መሥሪያ ቤታችን",
     officeLocation: "ቦሌ ክፍለ ከተማ፥ መንገድ ቁጥር 4፥ ላኪ ፕላዛ ህንፃ፥ 3ኛ ፎቅ፥ ቢሮ ቁጥር 304፥ አዲስ አበባ፥ ኢትዮጵያ",
     officePhone: "ስልክ: +251 11 667 8990 / +251 911 234 567",
-    officeEmail: "ኢሜል: info@ethiolinkconsultancy.com",
+    officeEmail: "ኢሜል: info@Blue Employmentconsultancy.com",
     officeHours: "የስራ ሰዓት: ሰኞ - አርብ (ከጠዋቱ 2:30 - ከሰዓት 11:30)፣ ቅዳሜ (ከጠዋቱ 2:30 - ከሰዓት 6:30)",
     legalStatement: "በኢፌዴሪ የሥራ እና ክህሎት ሚኒስቴር ፈቃድ የተሰጠው እና ቁጥጥር የሚደረግበት።",
     licenseNo: "የሚኒስቴር ፈቃድ ምዝገባ ቁጥር L_MOLAS_748_2015",

@@ -71,7 +71,7 @@ export default function ContactForm({ currentLang, selectedRole, onRoleChange }:
   // Compose dynamic WhatsApp click url
   const initiateWhatsApp = () => {
     const defaultText = currentLang === "en"
-      ? `Hello EthioLink Consultancy! I am interested in your consulting services as an ${formData.role === "candidate" ? "Overseas Candidate looking for work" : "Employer looking to hire certified domestic workers"}. Please guide me.`
+      ? `Hello Blue Employment Consultancy! I am interested in your consulting services as an ${formData.role === "candidate" ? "Overseas Candidate looking for work" : "Employer looking to hire certified domestic workers"}. Please guide me.`
       : `ጤና ይስጥልኝ የኢትዮ-ሊንክ አማካሪ አገልግሎት! እንደ ${formData.role === "candidate" ? "ባህር ማዶ ሥራ ፈላጊ ባለሙያ" : "ቀጣሪ የቤት ረዳት ሰራተኛ ለመቅጠር"} መረጃ ፈልጌ ነበር። እባክዎ ያግዙኝ።`;
 
     const encodedText = encodeURIComponent(defaultText);
