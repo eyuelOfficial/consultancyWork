@@ -46,6 +46,7 @@ export default function Navbar({ currentLang, onLanguageToggle, onApplyClick }: 
 
   const navItems = [
     { label: t.navHome, id: "hero" },
+    { label: t.navJobs, id: "jobs" },
     { label: t.navAbout, id: "about" },
     { label: t.navHowItWorks, id: "how-it-works" },
     { label: t.navServices, id: "services" },

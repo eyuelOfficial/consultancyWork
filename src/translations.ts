@@ -11,6 +11,7 @@ export const translations = {
     
     // Navigation
     navHome: "Home",
+    navJobs: "Jobs",
     navAbout: "About Us",
     navHowItWorks: "How It Works",
     navServices: "Services",
@@ -164,6 +165,7 @@ export const translations = {
     
     // Navigation
     navHome: "መነሻ",
+    navJobs: "ስራዎች",
     navAbout: "ስለ እኛ",
     navHowItWorks: "አሠራራችን",
     navServices: "አገልግሎቶች",

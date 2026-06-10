@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import HowItWorks from "./components/HowItWorks";
 import Services from "./components/Services";
+import JobPostings from "./components/JobPostings";
 import Destinations from "./components/Destinations";
 import Testimonials from "./components/Testimonials";
 import ContactForm from "./components/ContactForm";
@@ -58,6 +59,9 @@ export default function App() {
 
       {/* 4. Services Section */}
       <Services currentLang={currentLang} />
+
+      {/* 4.5 Job Postings Section */}
+      <JobPostings currentLang={currentLang} onApplyClick={handleScrollToContact} />
 
       {/* 5. Destination Section */}
       <Destinations currentLang={currentLang} />

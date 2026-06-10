@@ -52,3 +52,17 @@ export interface ContactFormState {
   role: 'candidate' | 'employer';
   message: string;
 }
+
+export interface Job {
+  id: string;
+  title: {
+    en: string;
+    am: string;
+  };
+  description: {
+    en: string;
+    am: string;
+  };
+  location: string;
+  employmentType: 'full-time' | 'part-time' | 'contract' | 'temporary';
+}
